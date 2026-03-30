@@ -17,7 +17,7 @@ All contracts are verified on Sepolia Etherscan. Click the links below to view t
 
 | Contract | Address | Etherscan Link |
 |----------|---------|----------------|
-| **Token A** | `0xd1f147a34d9C8ccdb123aC2DD56B021ac8454B70` | [View on Etherscan (https://sepolia.etherscan.io/address/0xd1f147a34d9C8ccdb123aC2DD56B021ac8454B70#code) |
+| **Token A** | `0xd1f147a34d9C8ccdb123aC2DD56B021ac8454B70` | [View on Etherscan](https://sepolia.etherscan.io/address/0xd1f147a34d9C8ccdb123aC2DD56B021ac8454B70#code) |
 | **Token B** | `0x0Dd71284821f77d1d56D8Bf7e46B332e55A25B2E` | [View on Etherscan](https://sepolia.etherscan.io/address/0x0Dd71284821f77d1d56D8Bf7e46B332e55A25B2E#code) |
 | **DEX Instance 1** | `0x9E20D9C3EAC5250D3d434dE7eD701696fc096aBF` | [View on Etherscan](https://sepolia.etherscan.io/address/0x9E20D9C3EAC5250D3d434dE7eD701696fc096aBF#code) |
 | **DEX Instance 2** | `0x190a17c71174D6684d61Aa3c8cc63855a6Cdec2B` | [View on Etherscan](https://sepolia.etherscan.io/address/0x190a17c71174D6684d61Aa3c8cc63855a6Cdec2B#code) |
@@ -34,7 +34,7 @@ Below are the transaction hashes demonstrating the core functionalities of the D
 * **Swap Token A to Token B:** [View Tx](https://sepolia.etherscan.io/tx/0x863911f9b5909f151ae52445be69e0fbece4d0a2e0abb6bd2fa943e7396fba1e)
 * **Swap Token B to Token A:** [View Tx](https://sepolia.etherscan.io/tx/0xce1b283d55e59dcbf5ab14e5cedac41d4792173b563533a3e8fa3278ede5ae70)
 * **Profitable Arbitrage Execution:** [View Tx](https://sepolia.etherscan.io/tx/)
-* **Failed Arbitrage Execution (Insufficient Profit):** [View Tx (https://sepolia.etherscan.io/tx/0x3a7d89ea0fd7c7dae5858144fb331d55d7a9629c1b6558f246e041c9fb9025cd)
+* **Failed Arbitrage Execution (Insufficient Profit):** [View Tx ](https://sepolia.etherscan.io/tx/0x3a7d89ea0fd7c7dae5858144fb331d55d7a9629c1b6558f246e041c9fb9025cd)
 
 ---
 
