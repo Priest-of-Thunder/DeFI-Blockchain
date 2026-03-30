@@ -1,0 +1,23 @@
+# Node Dependencies
+node_modules/
+
+# Hardhat Files
+cache/
+artifacts/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+
+# Vite / React Build Files
+frontend/dist/
+frontend/dist-ssr/
+
+# Security / Environment Variables (CRITICAL)
+.env
+.env.local
+.env.*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
